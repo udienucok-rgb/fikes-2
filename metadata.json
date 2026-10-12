@@ -1,0 +1,8 @@
+{
+  "name": "FIKES Universitas Ichsan Satya",
+  "description": "Website resmi Fakultas Ilmu Kesehatan Universitas Ichsan Satya (FIKES UIS) - informasi program studi S1 Keperawatan, Profesi Ners, D3 Kebidanan, profil institusi, sejarah, akademik, pengumuman, dan berita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
